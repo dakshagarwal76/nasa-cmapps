@@ -1,0 +1,14 @@
+Model,Dataset,Behavior,Note
+ExtraTrees,FD001,Stable,Overfit onset ~epoch nan
+ExtraTrees,FD002,Stable,Overfit onset ~epoch nan
+ExtraTrees,FD003,Stable,Overfit onset ~epoch nan
+ExtraTrees,FD004,Stable,Overfit onset ~epoch nan
+HistGradientBoosting,FD001,Stable,Overfit onset ~epoch nan
+HistGradientBoosting,FD002,Stable,Overfit onset ~epoch nan
+HistGradientBoosting,FD003,Stable,Overfit onset ~epoch nan
+HistGradientBoosting,FD004,Stable,Overfit onset ~epoch nan
+LSTM,FD001,Stable,Overfit onset ~epoch 6.0
+XGBoost,FD001,Stable,Overfit onset ~epoch nan
+XGBoost,FD002,Stable,Overfit onset ~epoch nan
+XGBoost,FD003,Stable,Overfit onset ~epoch nan
+XGBoost,FD004,Stable,Overfit onset ~epoch nan

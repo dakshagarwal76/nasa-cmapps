@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large / generated artifacts
+*.zip
+CMAPSSData.zip
+cmapss-rul-benchmark-package/
+cmapss-rul-benchmark-package.zip
+onboarding docs.zip
+
+# Model weights too large for GitHub (>100 MB limit)
+models/FD001_ExtraTrees.pkl
+
+# Legacy / personal clutter
+Claude-Publishing*.txt
+jet-engine-maintenance*.ipynb
+cmapss-rul-regression*.ipynb
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Temp
+*.log
+.cache/

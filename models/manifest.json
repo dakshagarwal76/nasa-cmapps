@@ -1,0 +1,27 @@
+[
+  {
+    "dataset": "FD001",
+    "model": "ExtraTrees",
+    "family": "ML",
+    "path": "c:\\Users\\Daksh\\Documents\\nasa cmaps\\models\\FD001_ExtraTrees.pkl"
+  },
+  {
+    "dataset": "FD002",
+    "model": "Transformer",
+    "family": "DL",
+    "weights": "c:\\Users\\Daksh\\Documents\\nasa cmaps\\models\\FD002_Transformer.pth",
+    "metadata": "c:\\Users\\Daksh\\Documents\\nasa cmaps\\models\\FD002_Transformer_meta.pkl"
+  },
+  {
+    "dataset": "FD003",
+    "model": "HistGradientBoosting",
+    "family": "ML",
+    "path": "c:\\Users\\Daksh\\Documents\\nasa cmaps\\models\\FD003_HistGradientBoosting.pkl"
+  },
+  {
+    "dataset": "FD004",
+    "model": "HistGradientBoosting",
+    "family": "ML",
+    "path": "c:\\Users\\Daksh\\Documents\\nasa cmaps\\models\\FD004_HistGradientBoosting.pkl"
+  }
+]
